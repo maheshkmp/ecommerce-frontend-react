@@ -8,7 +8,7 @@ The project is currently in the **requirement gathering and planning** phase. No
 
 ## 🧑‍💻 Repository Info
 
-This repo will serve as the **[Frontend / Backend]** of the application:
+This repo will serve as the **Frontend** of the application:
 
 - **Frontend**: Built with React.js
 - **Backend**: Built with FastAPI + PostgreSQL
