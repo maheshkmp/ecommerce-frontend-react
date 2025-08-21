@@ -1,41 +1,12 @@
-# E-Commerce Web Application
+# React + Vite
 
-This repository is part of a university group project to develop a full-stack E-Commerce web application.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🚧 Project Status
+Currently, two official plugins are available:
 
-The project is currently in the **requirement gathering and planning** phase. No production code has been written yet. We are working collaboratively to define system requirements, finalize the tech stack, and assign responsibilities among team members.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🧑‍💻 Repository Info
+## Expanding the ESLint configuration
 
-This repo will serve as the **Frontend** of the application:
-
-- **Frontend**: Built with React.js
-- **Backend**: Built with FastAPI + PostgreSQL
-
-## 📅 Project Timeline (Tentative)
-
-- Requirement Gathering: ✅ In Progress
-- Initial Architecture Planning: 🔜
-- Development Start: 🔜
-- Testing & QA: 🔜
-- Deployment: 🔜
-
-## 📂 Structure (To Be Updated)
-
-Once development begins, this README will include:
-
-- Setup instructions
-- Folder structure
-- Environment configuration
-- Contribution guidelines
-
-## 👥 Contributors
-
-This is a team effort involving 4 members. Collaborator access has been granted to all team members for transparent contribution and progress tracking.
-
----
-
-> _Stay tuned!_ Updates will be committed as we move into the development phase.
-
-# ecommerce-frontend-react
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
