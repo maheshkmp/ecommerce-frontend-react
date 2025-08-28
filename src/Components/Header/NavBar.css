@@ -1,0 +1,23 @@
+header{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    padding: 1rem;
+    margin: 0;
+    justify-content: space-between;
+    display: flex;
+
+    }
+.logo{
+    width: 35vw;
+    color: orange;
+    align-items: center;
+}
+.navbar{
+    width: 65vw;
+    display: flex;
+    justify-content: space-between;
+}
