@@ -1,47 +1,22 @@
 
 header{ 
-    background-color: black;
+    background-color: #58234F;
     padding: 0;
     margin: 0;
-    display: flex;
     height: 15vh;
+    width: 100vw;
     align-items: center;
-    
-    
-  
-
+    display: flex;
+    justify-content: space-around;
     }
-
-.logoContainer{
-    width: 35vw;
-    
-    
-   
-}
-
-
-.logo{
-    width: 20rem;
-    margin-left: 2rem;
-    
-    
-}
-
-.rightColumn{
-    width: 65vw;
+.header-bar{
+    width: 80vw;
     display: flex;
     align-items: center;
-    
-
-}
-.navbar{
-    width: 60%;
     justify-content: space-between;
-    font-size: 1rem;
-    display: flex;
-    margin-left: 20%;
-    color: white;
-    font-family: 'Roboto', sans-serif; 
+}
+.logo{
+    width: 200px;   
 }
 .nav-link{
     color: white;
@@ -50,4 +25,10 @@ header{
 .nav-link:hover{
     color: hotpink;
     transform: scale(1.1);
+}
+.login-signup-btn{
+    background-color: violet;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 15px;
 }
