@@ -11,9 +11,9 @@ function NavBar() {
           <div className="logoContainer">
             <img src={logo} alt="logo" className="logo" />
           </div>
-          <div className="search-bar">
-            <input type="text" placeholder="Search" />
-            <button className="searchBtn">Search</button>
+          <div className="search-bar-container">
+            <input type="text" placeholder="Search" className="search-bar" />
+            <button className="search-btn">Search</button>
           </div>
           <div className="login-signup">
             <button className="login-signup-btn">
