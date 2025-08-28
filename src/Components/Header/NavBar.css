@@ -1,28 +1,36 @@
-header{
-    color: white;
-    text-align: center; 
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
+
+header{ 
     background-color: black;
-    padding: 1rem;
+    padding: 0;
     margin: 0;
     display: flex;
+    height: 15vh;
+    align-items: center;
+    
+    
+  
 
     }
+
 .logoContainer{
     width: 35vw;
+    
+    
    
 }
 
 
 .logo{
-    width: 10rem;
-    height: auto;
+    width: 20rem;
     margin-left: 2rem;
+    
+    
 }
 
 .rightColumn{
     width: 65vw;
+    display: flex;
+    align-items: center;
     
 
 }
@@ -31,5 +39,15 @@ header{
     justify-content: space-between;
     font-size: 1rem;
     display: flex;
-
+    margin-left: 20%;
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: hotpink;
+    transform: scale(1.1);
 }

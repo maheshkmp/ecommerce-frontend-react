@@ -1,10 +1,9 @@
 import React from "react";
-import "./NavLinks.css";
 
 function NavLinks(props) {
   return (
     <>
-      <a className="navlinks" href={props.url}>
+      <a href={props.url} className="nav-link">
         {props.linkname}
       </a>
     </>
