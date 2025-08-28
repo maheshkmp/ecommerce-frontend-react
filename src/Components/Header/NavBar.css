@@ -1,23 +1,35 @@
 header{
     color: white;
-    text-align: center;
-    font-size: 2rem;
+    text-align: center; 
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
     padding: 1rem;
     margin: 0;
-    justify-content: space-between;
     display: flex;
 
     }
-.logo{
+.logoContainer{
     width: 35vw;
-    color: orange;
-    align-items: center;
+   
+}
+
+
+.logo{
+    width: 10rem;
+    height: auto;
+    margin-left: 2rem;
+}
+
+.rightColumn{
+    width: 65vw;
+    
+
 }
 .navbar{
-    width: 65vw;
-    display: flex;
+    width: 60%;
     justify-content: space-between;
+    font-size: 1rem;
+    display: flex;
+
 }
