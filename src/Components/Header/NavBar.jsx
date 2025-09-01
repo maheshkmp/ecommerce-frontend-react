@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./NavBar.css";
 import NavLinks from "./NavLinks/NavLinks";
 import logo from "../../images/logo.png";
@@ -25,5 +26,4 @@ function NavBar() {
     </>
   );
 }
-
 export default NavBar;
