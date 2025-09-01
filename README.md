@@ -1,3 +1,15 @@
+## About This Project
+
+This is a **self-initiated project**, developed in parallel with our university coursework.  
+It is not part of any official assignment — we are building it for **learning purposes** and to improve our teamwork skills.  
+
+### 👥 Team & Roles
+- **Mahesh** → Frontend development (React) and Backend development (FastAPI)  
+- **Dilanka** → Backend development and Database handling (PostgreSQL)  
+- **Nipuna** → UI/UX design (Figma prototypes and design workflows)  
+
+Our shared goal is to gain hands-on experience with **React, FastAPI, and PostgreSQL** by building a full-stack application together.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
