@@ -5,6 +5,7 @@
     display: flex;
     background-size: cover;
     align-items: center;
+    background-image: url("../../UI/image/Girl.png");
     
 }
 .leftSide{
