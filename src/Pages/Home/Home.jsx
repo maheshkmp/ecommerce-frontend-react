@@ -3,7 +3,9 @@ import "./Home.css";
 function Home() {
   return (
     <div className="L1">
-      <div className="leftSide">
+      <div className="topLeft">TL</div>
+      <div className="topRight">TR</div>
+      <div className="bottomLeft">
         <h1>Hurry, offer ends soon</h1>
         <p>
           Shop your favorite items and enjoy an exclusive 20% discount on
@@ -13,7 +15,7 @@ function Home() {
         <button className="getOfferBtn">Get offer</button>
         <button className="moreOfferBtn">More offers</button>
       </div>
-      <div className="rightSide">right</div>
+      <div className="bottomRight">BR</div>
     </div>
   );
 }
