@@ -6,7 +6,7 @@ function Home() {
       <div className="topLeft">TL</div>
       <div className="topRight">TR</div>
       <div className="bottomLeft">
-        <h1>Hurry, offer ends soon</h1>
+        <h2>Hurry, offer ends soon</h2>
         <p>
           Shop your favorite items and enjoy an exclusive 20% discount on
           everything.

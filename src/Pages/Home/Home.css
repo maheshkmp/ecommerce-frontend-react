@@ -49,27 +49,76 @@ table {
 
 .L1{
     background-repeat: no-repeat;
-    min-height: 60vh;
+    min-height: 80vh;
     background-image: url("../../UI/image/Girl.png");
     background-position: center;
     background-size: contain;
-    background-color: lightgrey;
+    background-color: black;
     display: grid;
     grid-template-columns: 50% 50%;
     
 }
 
-/* .topLeft{
-    background-color: lightpink;
+.topLeft{
+    background-image: url("../../UI/image/Offer.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 .topRight{
-    background-color: lightgreen;
+    
 }
 
 .bottomLeft{
-    background-color: aqua;
+    align-items: center;
+    color: white;
+    padding: 50PX;
 }
+
+h2{
+    font-family: poppins, sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+p{
+    font-family: poppins, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    width: 80%;
+    line-height: 1.5;
+}
+.getOfferBtn{
+    margin-top: 2rem;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+    background-color: #58234F;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.moreOfferBtn{
+    margin-top: 2rem;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
 .bottomRight{
-    background-color: orange;
-}  */
+    background-image: url("../../UI/image/20.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+} 
