@@ -4,19 +4,19 @@ header{
     padding: 0;
     margin: 0;
     height: 15vh;
-    width: 100vw;
     align-items: center;
     display: flex;
     justify-content: space-around;
     }
 .header-bar{
-    width: 80vw;
+    width: 90vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: auto;
 }
 .logo{
-    width: 15rem;   
+    width: 10rem;   
 }
 .nav-link{
     color: white;
@@ -36,7 +36,7 @@ header{
     border: none;
     border-radius: 15px;
     height: 2rem;
-    width: 22rem;
+    width: 18rem;
     padding: 0.5rem 1rem;
 }
 .search-btn{

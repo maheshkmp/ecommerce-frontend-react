@@ -2,7 +2,7 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div className="L1">
+    <div className="clearfix L1">
       <div className="topLeft">TL</div>
       <div className="topRight">TR</div>
       <div className="bottomLeft">

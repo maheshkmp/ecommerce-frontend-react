@@ -49,17 +49,17 @@ table {
 
 .L1{
     background-repeat: no-repeat;
-    min-height: 100vh;
-    background-image: url("../../images/bigsale.png");
-    background-size: cover;
-    align-items: center;
+    min-height: 60vh;
     background-image: url("../../UI/image/Girl.png");
+    background-position: center;
+    background-size: contain;
+    background-color: lightgrey;
     display: grid;
     grid-template-columns: 50% 50%;
     
 }
 
-.topLeft{
+/* .topLeft{
     background-color: lightpink;
 }
 
@@ -72,4 +72,4 @@ table {
 }
 .bottomRight{
     background-color: orange;
-}
+}  */
