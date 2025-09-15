@@ -155,6 +155,6 @@ p{
     object-fit: contain;
 }
 
-img{
-    display: block;
+.itemBox1:hover, .itemBox2:hover, .itemBox3:hover, .itemBox4:hover{
+    transform: translateY(-10px);
 }

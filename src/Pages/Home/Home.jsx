@@ -27,12 +27,59 @@ function Home() {
                 src="/../UI/image/tshirt2.png"
                 alt="green tshirt"
               />
+              <div>ratings(403)</div>
+              <h1>Men's T-shirt</h1>
+              <div>Rs.2399.00</div>
+            </div>
+          </h1>{" "}
+          <h1 className="itemBox1">
+            <div className="itemPic">
+              <img
+                className="greenTshirt"
+                src="/../UI/image/tshirt2.png"
+                alt="green tshirt"
+              />
+              <div>ratings(403)</div>
+              <h1>Men's T-shirt</h1>
+              <div>Rs.2399.00</div>
+            </div>
+          </h1>{" "}
+          <h1 className="itemBox1">
+            <div className="itemPic">
+              <img
+                className="greenTshirt"
+                src="/../UI/image/tshirt2.png"
+                alt="green tshirt"
+              />
+              <div>ratings(403)</div>
+              <h1>Men's T-shirt</h1>
+              <div>Rs.2399.00</div>
+            </div>
+          </h1>{" "}
+          <h1 className="itemBox1">
+            <div className="itemPic">
+              <img
+                className="greenTshirt"
+                src="/../UI/image/tshirt2.png"
+                alt="green tshirt"
+              />
+              <div>ratings(403)</div>
+              <h1>Men's T-shirt</h1>
+              <div>Rs.2399.00</div>
+            </div>
+          </h1>{" "}
+          <h1 className="itemBox1">
+            <div className="itemPic">
+              <img
+                className="greenTshirt"
+                src="/../UI/image/tshirt2.png"
+                alt="green tshirt"
+              />
+              <div>ratings(403)</div>
+              <h1>Men's T-shirt</h1>
+              <div>Rs.2399.00</div>
             </div>
           </h1>
-          <h1 className="itemBox1">This is body area</h1>
-          <h1 className="itemBox1">This is body area</h1>
-          <h1 className="itemBox1">This is body area</h1>
-          <h1 className="itemBox1">This is body area</h1>
         </div>
       </div>
     </>
