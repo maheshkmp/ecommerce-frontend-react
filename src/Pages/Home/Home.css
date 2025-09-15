@@ -66,9 +66,9 @@ table {
     background-size: contain;
 }
 
-.topRight{
-    
-}
+/* .topRight{
+   
+} */
 
 .bottomLeft{
     align-items: center;
@@ -122,3 +122,9 @@ p{
     background-position: center;
     background-size: contain;
 } 
+
+.bodyArea{
+    text-align: center;
+    margin-top: 50px;
+    background-color: aliceblue;
+}
