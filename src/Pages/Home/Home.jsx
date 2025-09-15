@@ -19,8 +19,20 @@ function Home() {
         <div className="bottomRight">BR</div>
       </div>
       <div>
-        <div className="bodyArea">
-          <h1 className="bodyI1">This is body area</h1>
+        <div className="itemArea">
+          <h1 className="itemBox1">
+            <div className="itemPic">
+              <img
+                className="greenTshirt"
+                src="/../UI/image/tshirt2.png"
+                alt="green tshirt"
+              />
+            </div>
+          </h1>
+          <h1 className="itemBox1">This is body area</h1>
+          <h1 className="itemBox1">This is body area</h1>
+          <h1 className="itemBox1">This is body area</h1>
+          <h1 className="itemBox1">This is body area</h1>
         </div>
       </div>
     </>

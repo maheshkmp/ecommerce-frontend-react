@@ -49,7 +49,7 @@ table {
 
 .L1{
     background-repeat: no-repeat;
-    min-height: 80vh;
+    min-height: 67vh;
     background-image: url("../../UI/image/Girl.png");
     background-position: center;
     background-size: contain;
@@ -123,8 +123,38 @@ p{
     background-size: contain;
 } 
 
-.bodyArea{
+.itemArea{
     text-align: center;
-    margin-top: 50px;
-    background-color: aliceblue;
+    margin-top: 0;
+    background-color: grey;
+    min-height: 35vh;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.itemBox1, .itemBox2, .itemBox3, .itemBox4{
+    background-color: white;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+    display: block;
+}
+
+.greenTshirt{
+    width: 100%;
+    height: 70%;
+    object-fit: contain;
+}
+
+img{
+    display: block;
 }
